@@ -3,7 +3,7 @@ title: Passions
 description: A Hobby for The Mind
 
 url: https://mouri11.github.io/blogs
-baseurl: "/blogs"
+baseurl: /blogs
 paginate_path: "page:num/"
 permalink: :title/
 
