@@ -13,7 +13,8 @@ Let me elucidate. It was the summer of 2014, in April. My higher secondary board
 We had booked a train leaving for **New Jalpaiguri Station** on 23rd April. Reaching at 5am the next day, it took us as little as 4 hours to reach **Gangtok, capital of Sikkim**. We were also accompanied by a friend of my dad's, who had also come with his family. Most unadventurous and boring people. Anyway, Gangtok is a very nice place to stay - very well-maintained and clean.
 
 Gangtok from the Ropeway Car
-<img src="{{ '/assets/img/sikkim/sikkim12.JPG' }}" alt="">
+
+<img src="{{ '/blogs/assets/img/sikkim/sikkim12.JPG' }}" alt="">
 
 A closer look at a cafe below
 <img src="{{ '/assets/img/sikkim/sikkim35.JPG' }}" alt="">
