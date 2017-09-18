@@ -22,7 +22,7 @@ She said, “You spent 60% of your time talking to other people! You did it on t
 
 “I thought scientists worked alone. I thought they sat in front of computers all day, or in their labs wearing white coats and working with test tubes.”
 
-<img src="{{ 'https://nothinginbiology.files.wordpress.com/2015/10/doc.jpg' | prepend: site.baseurl }}" alt="">
+<img src="{{ 'https://nothinginbiology.files.wordpress.com/2015/10/doc.jpg' }}" alt="">
 
 “That’s the scientist of the movies” I said. “Science is a very social profession. You can save weeks in the lab by a quick conversation with someone else. Two people talking are often much more than twice as effective as two people working alone.”
 

@@ -10,7 +10,7 @@ link: https://www.facebook.com/rohit.das.1995
 
 Going out into the market and looking out for a product worth your time and money is difficult, frustrating and confusing. So was I when on the lookout for a phone within my budget but having the latest features. I didn't like Android phones quite much before, with all the degradation in performance I had observed in others' phones. Though Google has done well in improving the OS over time, hardware mattered to me as well, nerdy as I am (maybe not so much).
 
-<img src="{{ 'https://www.android.com/static/2016/img/share/andy-lg.png' | prepend: site.baseurl }}" alt="">
+<img src="{{ 'https://www.android.com/static/2016/img/share/andy-lg.png' }}" alt="">
 
 I came across Mi and their phones while browsing in an on-line commercial store. Their devices didn't look cheap, priced almost right and had the latest specifications, especially the Redmi line of Android phones. Having a metallic finish, they didn't disappoint me.
 
@@ -18,7 +18,7 @@ So, fingers crossed, I got myself a Redmi 3S Prime. Their stocks never lasted on
 
 The phone heats up if used for too long, while charging, or in the heat of summer, especially with a transparent phone cover. It had malfunctioned for a second on two occasions, but recovered on reboot. Also, with the hybrid slot, you can have either two SIM cars in it, or accommodate your favourite SD card, and remove the other SIM.
 
-<img src="{{ 'http://img01.ibnlive.in/ibnlive/uploads/2016/08/redmi-3s-prime-030817.jpg' | prepend: site.baseurl }}" alt="">
+<img src="{{ 'https://img01.ibnlive.in/ibnlive/uploads/2016/08/redmi-3s-prime-030817.jpg' }}" alt="">
 
 But (there's always a but), the user interface is awesome. It can be customized to one's own whim, and doesn't break down. It's pretty fast, hasn't slowed down yet, and doesn't need extra anti-virus apps to keep it running properly. It also manages apps very well to utilize the maximum of a whopping 3gb RAM and a very fast processor (for the nerds: Qualcomm(R) Snapdragon(TM) 430, 64-bit quad core processor). The camera is pretty good, although low light pictures suck a bit. In-built filters are pretty cool.
 
