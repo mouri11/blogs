@@ -5,7 +5,7 @@ description: A Hobby for The Mind
 url: https://mouri11.github.io/blogs
 baseurl: /blogs
 paginate_path: "page:num/"
-permalink: title/
+permalink: :title/
 
 markdown: kramdown
 highlighter: rouge
