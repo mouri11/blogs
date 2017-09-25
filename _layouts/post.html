@@ -4,7 +4,7 @@ comments: true
 ---
 <div class="post">
 
-  {% if page.comments %} • <a href="https://mouri11.github.io/blogs{{ page.url }}#disqus_thread">0 Comments</a>{% endif %}
+  {% if page.comments %} • <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread">0 Comments</a>{% endif %}
 
   {% if page.image %}
   <div class="featuredImage">
@@ -19,7 +19,7 @@ comments: true
   </div><br>
 
   {{ content }}
-  
+
   <!-- POST NAVIGATION -->
   <div class="postNav clearfix">
     {% if page.previous.url %}
