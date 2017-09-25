@@ -4,8 +4,6 @@ comments: true
 ---
 <div class="post">
 
-  {% if page.comments %} • <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread">0 Comments</a>{% endif %}
-
   {% if page.image %}
   <div class="featuredImage">
     <img src="{{ '/assets/img/' | prepend: site.baseurl | append: page.image }}" alt="" />
