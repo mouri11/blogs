@@ -30,7 +30,7 @@ You shall be got back to soon!</h2>
 <script data-cfasync="false" type="text/javascript"
 src="https://cdn.rawgit.com/dwyl/html-form-send-email-via-google-script-without-server/master/form-submission-handler.js"></script>-->
 
-<!-- Ads -->
+<!-- Ads>
 <div align="center"><SCRIPT charset="utf-8" type="text/javascript" src="https://ws-in.amazon-adsystem.com/widgets/q?rt=tf_cw&ServiceVersion=20070822&MarketPlace=IN&ID=V20070822%2FIN%2Fmouri11-21%2F8010%2F7e670084-c233-4950-ad20-c29e2fd40866&Operation=GetScriptTemplate"> </SCRIPT> <NOSCRIPT><A rel="nofollow" HREF="https://ws-in.amazon-adsystem.com/widgets/q?rt=tf_cw&ServiceVersion=20070822&MarketPlace=IN&ID=V20070822%2FIN%2Fmouri11-21%2F8010%2F7e670084-c233-4950-ad20-c29e2fd40866&Operation=NoScript">Amazon.in Widgets</A></NOSCRIPT><div>
 
-</div>
+</div-->
