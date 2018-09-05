@@ -12,11 +12,11 @@ We started our journey from __Howrah Railway Station__ as before. We had boarded
 
 __*Some moments in Gangtok liberated*__
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22222070_1441011466017043_7915655295066553241_n.jpg?oh=0526ad3b1ab68e8502a23eec1993f57d&oe=5A88B71D' }}">
+<img src="{{ '/assets/img/sikkim2/img1.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22282071_1441011982683658_6597073864156949774_n.jpg?oh=f773b005ed911d3afa3f47f3388d969a&oe=5A7FC560' }}">
+<img src="{{ '/assets/img/sikkim2/img2.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22279653_1441011502683706_1861674583400780771_n.jpg?oh=1d50557fcec479a39e1f4ad1637c771f&oe=5A7A42DC' }}">
+<img src="{{ '/assets/img/sikkim2/img3.jpg' | prepend: site.baseurl }}">
 
 The weather gave us a bit of a hard time though. We spoke to the hotel manager, and made arrangements to visit __Lachung, Yumthang and Zero Point__ in North Sikkim. It turned out that due to lack of tourists in peak season, not many cars were available for the trip, so we could only leave for Lachung a day later, on 2nd. The evenings were boring since it was almost always raining. We couldn't go out much, lest our clothes get wet, and its a nightmare getting them dried in that climate. 
 
@@ -26,29 +26,29 @@ __On the way to Lachung__
 
 __*Sahasra Dhara Falls*__
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22366354_1441012582683598_1186161876761421524_n.jpg?oh=9abbe4b5e620d6388475b3c4fba64df1&oe=5A8174C0' }}">
+<img src="{{ '/assets/img/sikkim2/img4.jpg' | prepend: site.baseurl }}">
 
 __*The road*__
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22279549_1441012222683634_7812677504102207178_n.jpg?oh=6e1b6037f7342eb40bdacb398a5db005&oe=5A8644A7	' }}">
+<img src="{{ '/assets/img/sikkim2/img5.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22228351_1441012029350320_432455195072093103_n.jpg?oh=1b55500c7ebd4de6c0b524f124f1f275&oe=5A3F858F' }}">
+<img src="{{ '/assets/img/sikkim2/img6.jpg' | prepend: site.baseurl }}">
 
 __*Amitabh Bachchan Falls*__
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22308911_1441011579350365_5477351804213920529_n.jpg?oh=da8ac4611fd7cfda08385a26de0e71fb&oe=5A8008B4' }}">
+<img src="{{ '/assets/img/sikkim2/img8.jpg' | prepend: site.baseurl }}">
 
 On Day 1 in __Lachung__, we didn't have much to do except look around and enjoy the isolation. There was a __football match__ going on between the local Govt. Senior Secondary School boys and the local Lachung Club. The Club won 3-1. The match was being watched over by ITBP officers and soldiers. They were very welcoming towards us, and even gave us a front row seat to the match(not that it is FIFA, but engrossing nevertheless). 
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/21764908_1441011829350340_7411450308261526857_n.jpg?oh=efcd41eaf8cde11e7a1ec29820fea6e1&oe=5A7E0E41' }}">
+<img src="{{ '/assets/img/sikkim2/img9.jpg' | prepend: site.baseurl }}">
 
 __*Gardeners' efforts in Lachung*__
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22279788_1441011362683720_3067362774257081008_n.jpg?oh=5eba49d429784d48b11bc5f855cca6cd&oe=5A7C19DF' }}">
+<img src="{{ '/assets/img/sikkim2/img10.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22222064_1441012046016985_1258228332655659262_n.jpg?oh=9960823af6c408baae84f245b9da734c&oe=5A3E62BB' }}">
+<img src="{{ '/assets/img/sikkim2/img11.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22282092_1441012399350283_5454276888307531822_n.jpg?oh=481907149dd5e2eb897682f5efa93ba1&oe=5A7BC91F' }}">
+<img src="{{ '/assets/img/sikkim2/img12.jpg' | prepend: site.baseurl }}">
 
 Day 2 had some very nice and long trips in store for us. One was to Zero Point via Yumthang, the other being back to Gangtok. Some may ask why we didn't visit __Gurudongmar Lake__. Well, turned out that visitors are being permitted upto __Lachen__, since there is some riot going on between Sikhs and Buddhists over who should own the Lake(like anyone owns anything in life!! Hearsay though, all of it). Lachung and Lachen are actually two rivers which separate at a place called __Chungthang__. Perhaps I might get to visit Gurudongmar Lake later.
 
@@ -56,31 +56,31 @@ Day 2 had some very nice and long trips in store for us. One was to Zero Point v
 
 "Nope, but would you mind posing for a picture? Thanks." 
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22282115_1441012086016981_1073474470023749498_n.jpg?oh=945cc64b954f729c16367f190a9eef21&oe=5A76F3A1' }}">
+<img src="{{ '/assets/img/sikkim2/img13.jpg' | prepend: site.baseurl }}">
 
 __Zero Point__ is where all roads in Sikkim end, the border between India and Tibet(currently in possession of China). Also known as __Yumesamdong__, Zero Point is about 14000 ft above MSL(approx info obtained from BRO camps; please verify). Cold winds seemed to freeze my spine through 4 layers of clothing. Also, I had some bouts of almost blacking out due to lack of Oxygen at such heights(I know I'm a pussy too). 
 
 __*On the way to Zero Point*__
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22228159_1441010966017093_1732565678795742924_n.jpg?oh=f69ac1f8edee1e3e007ef3ad041bbcc0&oe=5A7472C0' }}">
+<img src="{{ '/assets/img/sikkim2/img14.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22279610_1441011082683748_6185508489749400077_n.jpg?oh=18f5a773f2dec444820fc0fd87e03fef&oe=5A807E50' }}">
+<img src="{{ '/assets/img/sikkim2/img15.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22405481_1441011399350383_9125742349279644299_n.jpg?oh=403a20064947e5a3dd2a315c5f34ebfb&oe=5A76BD75' }}">
+<img src="{{ '/assets/img/sikkim2/img16.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22228397_1441012126016977_235372905028024373_n.jpg?oh=6f64d896061915f21abbb8d9952b2720&oe=5A74C277' }}">
+<img src="{{ '/assets/img/sikkim2/img17.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22281946_1441011149350408_511151799247225395_n.jpg?oh=22df6692e753cc6917669ce7baaf2212&oe=5A482BE4' }}">
+<img src="{{ '/assets/img/sikkim2/img18.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22366531_1441012462683610_8647083028456246640_n.jpg?oh=b7db032bff93a7922bbaed55f2e9a3d7&oe=5A476A41' }}">
+<img src="{{ '/assets/img/sikkim2/img19.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22228098_1441011159350407_800079428779530497_n.jpg?oh=aff18f91333d04dcfeb347b6644c4320&oe=5A76EAD3' }}">
+<img src="{{ '/assets/img/sikkim2/img20.jpg' | prepend: site.baseurl }}">
 
 __*At Zero Point*__
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22282076_1441011182683738_6260540225429215140_n.jpg?oh=9503ae346b21e10de5b905a426991745&oe=5A3DBACF' }}">
+<img src="{{ '/assets/img/sikkim2/img21.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22365183_1441012249350298_6474816235049648796_n.jpg?oh=fd20d74bb5df1d1b43dc0e9cc5128dfd&oe=5A3FD376' }}">
+<img src="{{ '/assets/img/sikkim2/img22.jpg' | prepend: site.baseurl }}">
 
 <div align="center"><iframe width="600" height="350" src="https://www.youtube.com/embed/JLdszdkyDJk" frameborder="0" allowfullscreen></iframe></div>
 
@@ -90,58 +90,58 @@ On the way we got to see __Yumthang Valley__(valley of flowers, sans the flowers
 
 __*Yumthang Valley*__
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22228193_1441012169350306_4783475821860963920_n.jpg?oh=b41a280c63b7f5c129021cbc5cad84b4&oe=5A7C9996' }}">
+<img src="{{ '/assets/img/sikkim2/img24.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22308850_1441011626017027_5419043128509149940_n.jpg?oh=a12f376769930116f43d8581049293b7&oe=5A44DF29' }}">
+<img src="{{ '/assets/img/sikkim2/img25.jpg' | prepend: site.baseurl }}">
 
 We reached our hotel in __Lachung__ at around 1 pm(the driver was unnecessarily rushing us, telling that it would get dark by the time we reach Gangtok). We had our lunch and got ready quickly for the return journey. This road was almost as treacherous as the Yumthang one, though only for short stretches. The driver was an arse-hole, young and rash, because he drove so fast, without any stops, that we reached Gangtok by 6 pm. It was really a very hectic journey. Also, I caught a cold.
 
 __*Mt. Kangchenjunga from the room, early in the morning after a night of heavy rain*__
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22310406_1441012176016972_4408632749588069805_n.jpg?oh=58f3248d28669714fbdfd4bd302cc060&oe=5A46D0FB' }}">
+<img src="{{ '/assets/img/sikkim2/img26.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22310562_1441011689350354_8364355971953846221_n.jpg?oh=6da892a5a1f14af99c60ca372f5217ff&oe=5A3A99C6' }}">
+<img src="{{ '/assets/img/sikkim2/img27.jpg' | prepend: site.baseurl }}">
 
 We took the next day off, and took our __Nathu La__ trip on 5th. It was a short one-day trip.  We visited __Baba Harbhajan Singh Mandir__(not the cricketer), and __Tsomgo Lake__. We had already visited Nathu La Pass on our earlier trip and it wouldn't look as spectacular without the snow, so we didn't bother. The history of this temple can be found <a href="https://en.wikipedia.org/wiki/Baba_Harbhajan_Singh">here</a>. We missed Tsomgo Lake earlier due to the snowfall. It is said to be holy. Lots of yaks around, reined by their owners, hiring them out for rides and photo sessions. I had a moment with one too.
 
 __*On the way to the Mandir*__
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22308700_1441011092683747_5919949718441812361_n.jpg?oh=ba92b021b2f46ce728061edb30dfea56&oe=5A44EF23' }}">
+<img src="{{ '/assets/img/sikkim2/img28.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22281683_1441011249350398_8237530964882705852_n.jpg?oh=72fa056574cc02206ac739ddc01babc1&oe=5A7EAA4F' }}">
+<img src="{{ '/assets/img/sikkim2/img29.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22365306_1441011859350337_7523361154415987136_n.jpg?oh=5993c54b4fab9043a7b8e6da792a4600&oe=5A7F8EEF' }}">
+<img src="{{ '/assets/img/sikkim2/img30.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22281930_1441011272683729_1370049597548892139_n.jpg?oh=d8f6044a20e9f96e12705f0a99c37b30&oe=5A76BB92' }}">
+<img src="{{ '/assets/img/sikkim2/img31.jpg' | prepend: site.baseurl }}">
 
 __*Baba Harbhajan Singh Mandir*__
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22310469_1441011452683711_350399935269902327_n.jpg?oh=e5ee69236645c89fca417a7608629cea&oe=5A7733B4' }}">
+<img src="{{ '/assets/img/sikkim2/img32.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22281868_1441012466016943_4048351523493222736_n.jpg?oh=a3500b91d4ae18674feb7cb28a578a78&oe=5A46BDA0' }}">
+<img src="{{ '/assets/img/sikkim2/img33.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22279459_1441012536016936_2457897446104708219_n.jpg?oh=569194eae181a055074d7cb384e706ef&oe=5A467181' }}">
+<img src="{{ '/assets/img/sikkim2/img34.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22228328_1441011699350353_41559172679220786_n.jpg?oh=0ea14cd81d48568ebde9ac39879a5de9&oe=5A3A756A' }}">
+<img src="{{ '/assets/img/sikkim2/img35.jpg' | prepend: site.baseurl }}">
 
 __*Thangu Lake*__
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22279832_1441011719350351_5490230650791926114_n.jpg?oh=de71bf1fc7457ec7c12117fa9a3fa8f1&oe=5A853A2E' }}">
+<img src="{{ '/assets/img/sikkim2/img36.jpg' | prepend: site.baseurl }}">
 
 __*Tsomgo Lake*__
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22228363_1441011292683727_4411821939920595413_n.jpg?oh=b0a82c2c348029a5574d4408f2b54cb4&oe=5A819F5B' }}">
+<img src="{{ '/assets/img/sikkim2/img37.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22279395_1441011342683722_7275151044659591720_n.jpg?oh=7229e9dab39593af46799c588f524c95&oe=5A420F45' }}">
+<img src="{{ '/assets/img/sikkim2/img38.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22308619_1441012369350286_7532583913828389181_n.jpg?oh=b8309e28e1fcc624c958235b06324206&oe=5A44D83B' }}">
+<img src="{{ '/assets/img/sikkim2/img39.jpg' | prepend: site.baseurl }}">
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22308540_1441010962683760_6051566945189940342_n.jpg?oh=47c922c788253fa5f65113495897c414&oe=5A42ECD0' }}">
+<img src="{{ '/assets/img/sikkim2/img40.jpg' | prepend: site.baseurl }}">
 
 The return train home was late too, no surprises there. What was surprising is that the train got delayed on the way by 3 hours, on the way which could have been easily covered in time. Also, the coaches were labeled incorrectly, people with unconfirmed tickets were boarding the train because they had no choice - it was pretty much chaos. But here I am, rattling on about my trip.
 
-<img src="{{ 'https://scontent.fccu3-1.fna.fbcdn.net/v/t1.0-9/22282024_1441011912683665_6979309114790888202_n.jpg?oh=65ddc0106b2dbc0ac827597de85f32ed&oe=5A3E3D3C' }}">
+<img src="{{ '/assets/img/sikkim2/img41.jpg' | prepend: site.baseurl }}">
 
-Actually, this trip wasn't as much fun. I will be writing soon about my trip to __South India__. I think I might make several sections of it, because it was a very long trip. Till then, salut.
+I will be writing soon about my trip to __South India__. I think I might make several sections of it, because it was a very long trip. Till then, salut.
 
 For newcomers, you can visit my previous blog on Sikkim <a href="https://mouri11.github.io/blogs/travel1/">here</a>.
